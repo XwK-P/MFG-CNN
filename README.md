@@ -1,5 +1,6 @@
 # MFG-CNN
 Simultaneous Segmentation and Classification of Bone Surfaces from Ultrasound Using a Multi-feature Guided CNN
+
 [[Paper Link](https://arxiv.org/abs/1806.09766)] 
 
 ## Usage 
