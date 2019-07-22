@@ -4,7 +4,10 @@ Simultaneous Segmentation and Classification of Bone Surfaces from Ultrasound Us
 [[Paper Link](https://arxiv.org/abs/1806.09766)] 
 
 ## Usage 
-The proposed MFG-CNN are implemented in Python using Pytorch. It can be trainied following details in the paper. 
+The proposed MFG-CNN are implemented in Python using Pytorch. It can be trainied following details in the paper.
+
+## Dataset
+The dataset (including computed `BSE`, `LPT` and `LP`) will be released as soon as ethics approvals are obtatined.
 
 ## Citing
 If you use this code in your research, please consider citing
